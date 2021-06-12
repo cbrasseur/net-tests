@@ -1,0 +1,13 @@
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\bin\Debug\netcoreapp3.1\unit_test.exe
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\bin\Debug\netcoreapp3.1\unit_test.deps.json
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\bin\Debug\netcoreapp3.1\unit_test.runtimeconfig.json
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\bin\Debug\netcoreapp3.1\unit_test.runtimeconfig.dev.json
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\bin\Debug\netcoreapp3.1\unit_test.dll
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\bin\Debug\netcoreapp3.1\unit_test.pdb
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\obj\Debug\netcoreapp3.1\unit_test.csproj.CoreCompileInputs.cache
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\obj\Debug\netcoreapp3.1\unit_test.AssemblyInfoInputs.cache
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\obj\Debug\netcoreapp3.1\unit_test.AssemblyInfo.cs
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\obj\Debug\netcoreapp3.1\unit_test.dll
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\obj\Debug\netcoreapp3.1\unit_test.pdb
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\obj\Debug\netcoreapp3.1\unit_test.genruntimeconfig.cache
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationDeploiement\Git repositories\unit_test\unit_test\obj\Debug\netcoreapp3.1\unit_test.csprojAssemblyReference.cache
