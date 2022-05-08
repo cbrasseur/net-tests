@@ -4649,13 +4649,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\Git repositories\\unit_test\\unit_test.Tests\\unit_test.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\NetTests_CI\\unit_test.Tests\\unit_test.Tests.csproj",
       "projectName": "unit_test.Tests",
-      "projectPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\Git repositories\\unit_test\\unit_test.Tests\\unit_test.Tests.csproj",
+      "projectPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\NetTests_CI\\unit_test.Tests\\unit_test.Tests.csproj",
       "packagesPath": "C:\\Users\\cdric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\Git repositories\\unit_test\\unit_test.Tests\\obj\\",
+      "outputPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\NetTests_CI\\unit_test.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "C:\\Users\\cdric\\NuGet.Config",
         "C:\\Users\\cdric\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4663,14 +4664,14 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\Git repositories\\unit_test\\unit_test\\unit_test.csproj": {
-              "projectPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\Git repositories\\unit_test\\unit_test\\unit_test.csproj"
+            "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\NetTests_CI\\unit_test\\unit_test.csproj": {
+              "projectPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\NetTests_CI\\unit_test\\unit_test.csproj"
             }
           }
         }
@@ -4683,6 +4684,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4712,7 +4714,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

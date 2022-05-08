@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R0u0Jt6pn3bpVaI/Vz9Maw2CKp4iRB6Bk0k0C1ja/kAcDDn3msz2wKbH2vRkgJAybvTF4Lh/Nxlo3fXxyBCteQ==",
+  "dgSpecHash": "O6hjCTLc9MIS+UMcjn/LASJDizvEE/ZuS7hRgI+3DqMlODyyUwa7AMMU0rgvOZxqZ0rjKRFYzQlYbs4Mp/r4zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\Git repositories\\unit_test\\unit_test\\unit_test.csproj",
+  "projectFilePath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\NetTests_CI\\unit_test\\unit_test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

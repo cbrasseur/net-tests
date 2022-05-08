@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RC6PzlksMo3r9YzM32/C3WCwfxUfOCmCPt1gvBdDkqTnNy9zpTQcwijRaPXGMlCN4h0IgdtjtNpx9gXzK3AK/A==",
+  "dgSpecHash": "k124EBLSAYXZiMnGRl5ZaLtOxB6SxHAnfkn825bp2XUjzhvRzbWF1+6rrE5nOShEekMje9PIV32+XfyU3nc2ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\Git repositories\\unit_test\\unit_test.Tests\\unit_test.Tests.csproj",
+  "projectFilePath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationDeploiement\\NetTests_CI\\unit_test.Tests\\unit_test.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cdric\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\cdric\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
